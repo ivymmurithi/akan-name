@@ -12,6 +12,8 @@
   float: left;
 }
 
-.icon{
+.icon-text{
   display: flex;
+  justify-content: space-between;
+  margin: 15%;
 }
