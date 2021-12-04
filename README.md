@@ -1,5 +1,7 @@
 # Akan Names
 A program that shows your Akan name. In Ghana, when children are born they are given names according to the day they were born and their gender.
+![Homepage image](relative/path/to/images/homepage.png?raw=true "Akan Name")
+
 
 **Male**
 Sunday: Kwasi
